@@ -1,4 +1,4 @@
-var amont = "false"; 
+var amont = "true"; 
 const provider = "@ybl";
 const upiname = "mr--sakariya";
 const upid = upiname + provider ;
